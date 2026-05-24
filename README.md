@@ -6,13 +6,16 @@
 
 ```
 english-boost/
-├── plans/           # 提分计划
-│   └── README.md    # 完整三年计划
-├── practice/        # 每日练习
-│   └── YYYY-MM-DD.md
-├── answers/         # 答案解析
-│   └── YYYY-MM-DD.md
-└── README.md        # 本文件
+├── plans/              # 提分计划
+│   └── README.md       # 完整三年计划
+├── day-01/
+│   ├── practice.md     # Day 01 练习
+│   └── answers.md      # Day 01 答案解析
+├── day-02/
+│   ├── practice.md
+│   └── answers.md
+├── ...
+└── README.md           # 本文件
 ```
 
 ## 基本信息
